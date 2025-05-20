@@ -1,2 +1,1 @@
-# lora558.github.io
-My page
+I am passionate about using AI for Good.
